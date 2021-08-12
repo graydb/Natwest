@@ -1,0 +1,5 @@
+package com.project.mymusic.model;
+
+public class User {
+
+}

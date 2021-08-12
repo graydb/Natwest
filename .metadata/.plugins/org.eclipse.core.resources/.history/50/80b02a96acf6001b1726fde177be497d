@@ -1,0 +1,5 @@
+package com.project.mymusic.service.exceptions;
+
+public class ObjectNotFoundException {
+
+}

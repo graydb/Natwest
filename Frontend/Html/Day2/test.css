@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<title>Hello</title>
+    <style>
+
+body { background-color: mediumorchid;
+    
+    
+    {font-family: 'Roboto', sans-serif;
+font-weight: 400;
+
+}
+
+li { color: brown;
+
+}
+
+img { 
+    transition: transform, ease-in-out, 2s;
+    }
+img:hover {  
+    transform: scale(2.5,2.5);
+    transform: rotate(90);
+    
+}
+ table {
+
+border: solid 2px black;
+border-style: inset;
+
+ }
+
+    </style>
+
+   
+    
+    
+</head>
+<body>
+    <header>
+        <h1>This is DG's Header" </h1>
+    </header>
+    <main>
+    <h2>Main</h2>
+    <p style="color: blue;"></p>
+    <a href="http://www.google.com" target="_blank">google</a>
+
+<a href="" target="_blank">page2</a>
+<img src=" https://i1.wp.com/readysetpuppy.com/wp-content/uploads/2019/09/Choosing-a-Cockapoo.jpg?fit=1000%2C558&ssl=1   "
+height="250"
+width="250"
+alt="An image of a dog"
+/></a>
+
+
+<br/>
+
+
+<form method="POST" action="">
+    <label>"username": </label>
+    <br/>
+    <input type="text" placeholder="username"></input>
+    <br/>
+    <label for="password">Password:</label>
+    <br/>
+    <input type="password" placeholder="password"><input>
+    <br/>
+    <button type= "submit"></button>Login>/button>
+        
+</form>
+<br/>
+<ul>
+    
+    <li>unordered list</li>
+    <li>unordered list</li>
+    <li>unordered list</li>
+    </ul>
+    <ol type="I">
+    <li>ordered list</li>
+    <ol type="i">
+    <li>nested ordered list</ol>li>
+    <li>nested ordered list</ol>li>
+    <li>nested ordered list</ol>li>
+    </ol>
+    <li>ordered list</li>
+    <li>ordered list</li>
+    <li>ordered list</li>
+</ol>
+
+</ul>
+
+<table>
+    <tr></tr>
+    <th></th>
+    
+    
+<tr>
+    <th>Test column1</th>
+    <th>Test column2</th>
+    <th>Test column3</th>
+    <th>Test column4</th>
+</tr>
+<thead></thead<td>
+    <tbody></tbody>
+    <tr></tr>
+
+    <td>test data1</td>
+    <td>test data1</td>
+    <td>test data1</td>
+    <td>test data1</td>
+</tr>
+<tr>
+    <td>test data1</td>
+    <td>test data1</td>
+    <td>test data1</td>
+    <td>test data1</td>
+</tr>
+<tr>
+    <td>test data1</td>
+    <td>test data1</td>
+    <td>test data1</td>
+    <td>test data1</td>
+</tr>
+
+
+</td>tbody>
+
+</table>
+
+<main>
+
+
+    <footer></footer>
+<h3>Where all his stuff is"</h3></a>
+    <h4>story or whaterver you want,dinosaurs or donkeys</h4>
+    <h5>aye:</h5>
+    <h6>this is a footer</h6>
+  
+</body>
+    
+
+
+</main>
+</html>
